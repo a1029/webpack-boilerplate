@@ -1,7 +1,7 @@
 {
-  "name": "javascript-p2-airbnb",
+  "name": "webpack-boilerplate",
   "version": "0.0.1",
-  "description": "웹풀스택 프로젝트#2 - airbnb",
+  "description": "webpack-boilerplate",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a1029/javascript-p2-airbnb.git"
+    "url": "git+https://github.com/a1029/webpack-boilerplate.git"
   },
   "author": "a1029",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/a1029/javascript-p2-airbnb/issues"
+    "url": "https://github.com/a1029/webpack-boilerplate/issues"
   },
-  "homepage": "https://github.com/a1029/javascript-p2-airbnb#readme",
+  "homepage": "https://github.com/a1029/webpack-boilerplate#readme",
   "dependencies": {
     "core-js": "^3.17.2",
     "express": "^4.17.1",

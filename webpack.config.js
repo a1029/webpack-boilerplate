@@ -34,5 +34,5 @@ module.exports = {
       filename: 'style.css'
     }),
   ],
-  // source-map 연동 필요
+  // source-map
 };
